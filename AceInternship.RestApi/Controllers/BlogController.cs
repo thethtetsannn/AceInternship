@@ -16,10 +16,10 @@ namespace AceInternBatch1DotNetCore.RestApi.Controllers
         public BlogController()
         {
             //_connectionStringBuilder = new SqlConnectionStringBuilder();
-            //_connectionStringBuilder.DataSource = "."; // Server Name
-            //_connectionStringBuilder.InitialCatalog = "AceInternBatch1DotNetCore"; // Database Name
+            //_connectionStringBuilder.DataSource = "DESKTOP-J7SLJLC";
+            //_connectionStringBuilder.InitialCatalog = "AceInternship"; 
             //_connectionStringBuilder.UserID = "sa";
-            //_connectionStringBuilder.Password = "sasa@123";
+            //_connectionStringBuilder.Password = "sa@123";
 
 
             _connectionStringBuilder = new SqlConnectionStringBuilder()
